@@ -34,6 +34,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/flavioscarvalho/flavioscarvalho/main/snake.svg" />
+<img src="https://raw.githubusercontent.com/flavioscarvalho/flavioscarvalho/768a7758742d48f7c0b710759821dc19c72e4882/snake.svg" />
 
 ###
